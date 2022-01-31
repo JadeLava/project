@@ -3,5 +3,10 @@
   "color": "gold",
   "null": null,
   "number": 123,
-  "string": "Hello World"
+  "string": {
+    "id": 1,
+    "details": {
+      "hello": false
+    }
+  }
 }
