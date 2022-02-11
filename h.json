@@ -1,11 +1,660 @@
 {
   "prepaidPack": [
     {
+      "regularPack": [
+        {
+          "dataPack": [
+            {
+              "packName": "DataPack",
+              "packPrice": 121,
+              "packValidity": 0,
+              "isCallUnlimited": false,
+              "totalData": 912.5,
+              "isActivePlan": true
+            },
+            {
+              "packName": "DataPack",
+              "packPrice": 61,
+              "packValidity": 0,
+              "isCallUnlimited": false,
+              "totalData": 6,
+              "isActivePlan": true
+            },
+            {
+              "packName": "DataPack",
+              "packPrice": 25,
+              "packValidity": 0,
+              "isCallUnlimited": false,
+              "totalData": 2,
+              "isActivePlan": true
+            },
+            {
+              "packName": "DataPack",
+              "packPrice": 15,
+              "packValidity": 0,
+              "isCallUnlimited": false,
+              "totalData": 1,
+              "isActivePlan": true
+            },
+            {
+              "packName": "DataPack",
+              "packPrice": 301,
+              "packValidity": 30,
+              "isCallUnlimited": false,
+              "totalData": 50,
+              "isActivePlan": false
+            },
+            {
+              "packName": "DataPack",
+              "packPrice": 241,
+              "packValidity": 30,
+              "isCallUnlimited": false,
+              "totalData": 40,
+              "isActivePlan": false
+            },
+            {
+              "packName": "DataPack",
+              "packPrice": 181,
+              "packValidity": 30,
+              "isCallUnlimited": false,
+              "totalData": 30,
+              "isActivePlan": false
+            }
+          ],
+          "unlimitedRegularPack": [
+            {
+              "unlimitedPack": [
+                {
+                  "packName": "UnlimitedPack",
+                  "packPrice": 2545,
+                  "packValidity": 336,
+                  "isCallUnlimited": true,
+                  "totalData": 504,
+                  "dataPerDay": 1.5,
+                  "smsPerDay": 100
+                },
+                {
+                  "packName": "UnlimitedPack",
+                  "packPrice": 479,
+                  "packValidity": 56,
+                  "isCallUnlimited": true,
+                  "totalData": 84,
+                  "dataPerDay": 1.5,
+                  "smsPerDay": 100
+                }
+              ],
+              "cashbackPack": [
+                {
+                  "packName": "CashbackPack",
+                  "packPrice": 2999,
+                  "packValidity": 365,
+                  "isCallUnlimited": true,
+                  "totalData": 912.5,
+                  "dataPerDay": 2.5,
+                  "smsPerDay": 100,
+                  "discountPercentage": 20
+                },
+                {
+                  "packName": "CashbackPack",
+                  "packPrice": 719,
+                  "packValidity": 84,
+                  "isCallUnlimited": true,
+                  "totalData": 168,
+                  "dataPerDay": 2,
+                  "smsPerDay": 100,
+                  "discountPercentage": 20
+                }
+              ],
+              "subscriptionPack": [
+                {
+                  "packName": "SubscriptionPack",
+                  "packPrice": 3119,
+                  "packValidity": 365,
+                  "isCallUnlimited": true,
+                  "totalData": 740,
+                  "dataPerDay": 2,
+                  "smsPerDay": 100,
+                  "subscriptions": [
+                    "Amazon Prime - 30 days free trail",
+                    "Disney+Hotstar - 1 year subscription"
+                  ]
+                },
+                {
+                  "packName": "SubscriptionPack",
+                  "packPrice": 1066,
+                  "packValidity": 84,
+                  "isCallUnlimited": true,
+                  "totalData": 173,
+                  "dataPerDay": 2,
+                  "smsPerDay": 100,
+                  "subscriptions": [
+                    "Amazon Prime - 30 days free trail",
+                    "Disney+Hotstar - 1 year subscription"
+                  ]
+                }
+              ]
+            }
+          ],
+          "limitedRegularPack": [
+            {
+              "packName": "LimitedPack",
+              "packPrice": 1559,
+              "packValidity": 336,
+              "isCallUnlimited": true,
+              "totalData": 24,
+              "smsCount": 3600
+            },
+            {
+              "packName": "LimitedPack",
+              "packPrice": 395,
+              "packValidity": 84,
+              "isCallUnlimited": true,
+              "totalData": 6,
+              "smsCount": 1000
+            },
+            {
+              "packName": "LimitedPack",
+              "packPrice": 296,
+              "packValidity": 30,
+              "isCallUnlimited": true,
+              "totalData": 25,
+              "smsCount": 100
+            },
+            {
+              "packName": "LimitedPack",
+              "packPrice": 155,
+              "packValidity": 28,
+              "isCallUnlimited": true,
+              "totalData": 2,
+              "smsCount": 300
+            }
+          ]
+        }
+      ],
       "internationalPack": [
         {
+          "isdPack": [
+            {
+              "packName": "ISDPack",
+              "packPrice": 501,
+              "packValidity": 28,
+              "talktimeCost": 424.58,
+              "smsCost": 5.0,
+              "countryDetails": [
+                {
+                  "countryName": "Afghanistan",
+                  "rateDetail": [
+                    {
+                      "areaCode": 93,
+                      "price": "Rs 14/min"
+                    },
+                    {
+                      "areaCode": 9370,
+                      "price": "Rs 14/min"
+                    },
+                    {
+                      "areaCode": 9371,
+                      "price": "Rs 14/min"
+                    },
+                    {
+                      "areaCode": 9372,
+                      "price": "Rs 13/min"
+                    },
+                    {
+                      "areaCode": 9373,
+                      "price": "Rs 13/min"
+                    },
+                    {
+                      "areaCode": 9374,
+                      "price": "Rs 16/min"
+                    },
+                    {
+                      "areaCode": 9375,
+                      "price": "Rs 14/min"
+                    },
+                    {
+                      "areaCode": 9376,
+                      "price": "Rs 16/min"
+                    },
+                    {
+                      "areaCode": 9377,
+                      "price": "Rs 13/min"
+                    },
+                    {
+                      "areaCode": 9378,
+                      "price": "Rs 13/min"
+                    },
+                    {
+                      "areaCode": 9379,
+                      "price": "Rs 13/min"
+                    },
+                    {
+                      "areaCode": 93750,
+                      "price": "Rs 14/min"
+                    }
+                  ]
+                },
+                {
+                  "countryName": "Yemen",
+                  "rateDetail": [
+                    {
+                      "areaCode": 967,
+                      "price": "Rs 10/min"
+                    },
+                    {
+                      "areaCode": 9677,
+                      "price": "Rs 10/min"
+                    },
+                    {
+                      "areaCode": 96770,
+                      "price": "Rs 10/min"
+                    },
+                    {
+                      "areaCode": 96771,
+                      "price": "Rs 10/min"
+                    },
+                    {
+                      "areaCode": 96773,
+                      "price": "Rs 10/min"
+                    },
+                    {
+                      "areaCode": 96777,
+                      "price": "Rs 10/min"
+                    },
+                    {
+                      "areaCode": 96779,
+                      "price": "Rs 10/min"
+                    },
+                    {
+                      "areaCode": 9677052,
+                      "price": "Rs 100/min"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
           "irPack": [
             {
-              "packInstructions": "International roaming notes:\n1. The pack benefits are applicable only on the preferred partner network in the visited country, if any other partner is chosen then standard rates will be applicable.\n2. Please restart your handset 15 mins after purchasing the pack.\n\nValue packs without WiFi calling:\n1. Value pack ₹1101 - Applicable for 100+ countries.\n2. Value pack ₹1201 - Applicable for 169 countries.\n3. Incoming calls on Wi-Fi calling can be received from anywhere in the world at ₹1.\n4. Outgoing calls over Wi-Fi calling are not allowed.\n\nValue packs with WiFi calling:\n1. Value pack ₹1102 - Applicable for 100+ countries.\n2. Value pack ₹1202 - Applicable for 169 countries.\n3. Wi-Fi calling facility is allowed only for call back to India.\n4. Incoming calls on Wi-Fi calling can be received from anywhere in the world at ₹1\n5. Outgoing SMS over Wi-Fi calling is not allowed. All incoming text messages will be delivered without any charge.\n6. Voice calling through Wi-Fi calling will be charged at ₹1 per minute to India.\n7. Video calls through Wi-Fi calling can be made on a Jio number only. You will be charged at ₹1 per minute plus the data deduction will happen from the data balance available in your base plan (The actual data usage of your video call may vary)\n8. For IR 1202 pack iPhone users, Wi-Fi calling facility is available in limited countries.\n\nUnlimited packs without WiFi calling:\n1. Applicable for 22 countries.\n2. Incoming calls from anywhere in the world by enabling Wi-Fi calling feature will be free.\n3. Outgoing calls over Wi-Fi calling are not allowed."
+              "packInstructions": "International roaming notes:\n1. The pack benefits are applicable only on the preferred partner network in the visited country, if any other partner is chosen then standard rates will be applicable.\n2. Please restart your handset 15 mins after purchasing the pack.\n\nValue packs without WiFi calling:\n1. Value pack ₹1101 - Applicable for 100+ countries.\n2. Value pack ₹1201 - Applicable for 169 countries.\n3. Incoming calls on Wi-Fi calling can be received from anywhere in the world at ₹1.\n4. Outgoing calls over Wi-Fi calling are not allowed.\n\nValue packs with WiFi calling:\n1. Value pack ₹1102 - Applicable for 100+ countries.\n2. Value pack ₹1202 - Applicable for 169 countries.\n3. Wi-Fi calling facility is allowed only for call back to India.\n4. Incoming calls on Wi-Fi calling can be received from anywhere in the world at ₹1\n5. Outgoing SMS over Wi-Fi calling is not allowed. All incoming text messages will be delivered without any charge.\n6. Voice calling through Wi-Fi calling will be charged at ₹1 per minute to India.\n7. Video calls through Wi-Fi calling can be made on a Jio number only. You will be charged at ₹1 per minute plus the data deduction will happen from the data balance available in your base plan (The actual data usage of your video call may vary)\n8. For IR 1202 pack iPhone users, Wi-Fi calling facility is available in limited countries.\n\nUnlimited packs without WiFi calling:\n1. Applicable for 22 countries.\n2. Incoming calls from anywhere in the world by enabling Wi-Fi calling feature will be free.\n3. Outgoing calls over Wi-Fi calling are not allowed.",
+              "packDetails": [
+                {
+                  "countryName": "Malasiya",
+                  "limitedIRPack": [
+                    {
+                      "withWifi": {
+                        "packName": "Value Pack with Wifi calling",
+                        "packPrice": 1102,
+                        "packValidity": 28,
+                        "talktimeCost": 933.9,
+                        "smsCost": 5
+                      },
+                      "withoutWifi": {
+                        "packName": "Value Pack without Wifi calling",
+                        "packPrice": 1101,
+                        "packValidity": 28,
+                        "talktimeCost": 933.05,
+                        "smsCost": 5
+                      }
+                    }
+                  ],
+                  "unlimitedIRPack": [
+                    {
+                      "associatedNetworkList": [
+                        {
+                          "networkName": "Optus",
+                          "handset": "Optus AU / Optus",
+                          "countryName": "Australia"
+                        },
+                        {
+                          "networkName": "Bell Mobility",
+                          "handset": "Bell",
+                          "countryName": "Canada"
+                        },
+                        {
+                          "networkName": "Telus",
+                          "handset": "TELUS",
+                          "countryName": "Canada"
+                        },
+                        {
+                          "networkName": "O2",
+                          "handset": "O2- CZ",
+                          "countryName": "Czech Republic"
+                        },
+                        {
+                          "networkName": "Hi3G",
+                          "handset": "3 DK",
+                          "countryName": "Denmark"
+                        },
+                        {
+                          "networkName": "Telefonica",
+                          "handset": "O2- de/ E-Plus",
+                          "countryName": "Germany"
+                        },
+                        {
+                          "networkName": "Optus",
+                          "handset": "Optus AU / Optus",
+                          "countryName": "Australia"
+                        },
+                        {
+                          "networkName": "Hutchinson",
+                          "handset": "CP 3",
+                          "countryName": "Indonesia"
+                        },
+                        {
+                          "networkName": "Meteor",
+                          "handset": "IRL-Meteor/Meteor",
+                          "countryName": "Ireland"
+                        },
+                        {
+                          "networkName": "Telecom",
+                          "handset": "Italia Tim",
+                          "countryName": "Italy"
+                        },
+                        {
+                          "networkName": "Maxis",
+                          "handset": "MY MAXIS",
+                          "countryName": "Malaysia"
+                        },
+                        {
+                          "networkName": "U-Mobile",
+                          "handset": "U Mobiles",
+                          "countryName": "Malaysia"
+                        },
+                        {
+                          "networkName": "KPN",
+                          "handset": "NL KPN",
+                          "countryName": "Netherlands"
+                        },
+                        {
+                          "networkName": "Spark",
+                          "handset": "Spark NZ",
+                          "countryName": "New Zealand"
+                        },
+                        {
+                          "networkName": "Smart",
+                          "handset": "SMART",
+                          "countryName": "Philippines"
+                        },
+                        {
+                          "networkName": "NOS",
+                          "handset": "NOS",
+                          "countryName": "Portugal"
+                        },
+                        {
+                          "networkName": "M1",
+                          "handset": "SGP-M1/ M1",
+                          "countryName": "Singapore"
+                        },
+                        {
+                          "networkName": "SK Telecom",
+                          "handset": "KOR SK Telecom / SKT",
+                          "countryName": "South Korea"
+                        },
+                        {
+                          "networkName": "Telefonica",
+                          "handset": "Movistar",
+                          "countryName": "Spain"
+                        },
+                        {
+                          "networkName": "Hutchison",
+                          "handset": "Hutch",
+                          "countryName": "Sri Lanka"
+                        },
+                        {
+                          "networkName": "Mobitel",
+                          "handset": "Mobitel LK",
+                          "countryName": "Sri Lanka"
+                        },
+                        {
+                          "networkName": "True Move",
+                          "handset": "TH 3G+",
+                          "countryName": "Thailand"
+                        },
+                        {
+                          "networkName": "Turkcell",
+                          "handset": "TR Turkcell/ TCELL",
+                          "countryName": "Turkey"
+                        },
+                        {
+                          "networkName": "DU",
+                          "handset": "DU",
+                          "countryName": "United Arab Emirates"
+                        },
+                        {
+                          "networkName": "Hutchison",
+                          "handset": "3 UK",
+                          "countryName": "United Kingdom"
+                        },
+                        {
+                          "networkName": "Telefonica",
+                          "handset": "O2 – UK",
+                          "countryName": "United Kingdom"
+                        },
+                        {
+                          "networkName": "AT&T",
+                          "handset": "AT&T",
+                          "countryName": "United States"
+                        }
+                      ],
+                      "pack": [
+                        {
+                          "packName": "UnLimitedIRPack",
+                          "packPrice": 575,
+                          "packValidity": 1,
+                          "outgoingCall": 100,
+                          "mobileData": 250,
+                          "smsCount": 100
+                        },
+                        {
+                          "packName": "UnLimitedIRPack",
+                          "packPrice": 2875,
+                          "packValidity": 7,
+                          "outgoingCall": 100,
+                          "mobileData": 250,
+                          "smsCount": 100
+                        },
+                        {
+                          "packName": "UnLimitedIRPack",
+                          "packPrice": 5751,
+                          "packValidity": 30,
+                          "outgoingCall": 1500,
+                          "mobileData": 5120,
+                          "smsCount": 1500
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "countryName": "Turkey",
+                  "limitedIRPack": [
+                    {
+                      "withWifi": {
+                        "packName": "Value Pack with Wifi calling",
+                        "packPrice": 1102,
+                        "packValidity": 28,
+                        "talktimeCost": 933.9,
+                        "smsCost": 5
+                      },
+                      "withoutWifi": {
+                        "packName": "Value Pack without Wifi calling",
+                        "packPrice": 1101,
+                        "packValidity": 28,
+                        "talktimeCost": 933.05,
+                        "smsCost": 5
+                      }
+                    }
+                  ],
+                  "unlimitedIRPack": [
+                    {
+                      "associatedNetworkList": [
+                        {
+                          "networkName": "Optus",
+                          "handset": "Optus AU / Optus",
+                          "countryName": "Australia"
+                        },
+                        {
+                          "networkName": "Bell Mobility",
+                          "handset": "Bell",
+                          "countryName": "Canada"
+                        },
+                        {
+                          "networkName": "Telus",
+                          "handset": "TELUS",
+                          "countryName": "Canada"
+                        },
+                        {
+                          "networkName": "O2",
+                          "handset": "O2- CZ",
+                          "countryName": "Czech Republic"
+                        },
+                        {
+                          "networkName": "Hi3G",
+                          "handset": "3 DK",
+                          "countryName": "Denmark"
+                        },
+                        {
+                          "networkName": "Telefonica",
+                          "handset": "O2- de/ E-Plus",
+                          "countryName": "Germany"
+                        },
+                        {
+                          "networkName": "Optus",
+                          "handset": "Optus AU / Optus",
+                          "countryName": "Australia"
+                        },
+                        {
+                          "networkName": "Hutchinson",
+                          "handset": "CP 3",
+                          "countryName": "Indonesia"
+                        },
+                        {
+                          "networkName": "Meteor",
+                          "handset": "IRL-Meteor/Meteor",
+                          "countryName": "Ireland"
+                        },
+                        {
+                          "networkName": "Telecom",
+                          "handset": "Italia Tim",
+                          "countryName": "Italy"
+                        },
+                        {
+                          "networkName": "Maxis",
+                          "handset": "MY MAXIS",
+                          "countryName": "Malaysia"
+                        },
+                        {
+                          "networkName": "U-Mobile",
+                          "handset": "U Mobiles",
+                          "countryName": "Malaysia"
+                        },
+                        {
+                          "networkName": "KPN",
+                          "handset": "NL KPN",
+                          "countryName": "Netherlands"
+                        },
+                        {
+                          "networkName": "Spark",
+                          "handset": "Spark NZ",
+                          "countryName": "New Zealand"
+                        },
+                        {
+                          "networkName": "Smart",
+                          "handset": "SMART",
+                          "countryName": "Philippines"
+                        },
+                        {
+                          "networkName": "NOS",
+                          "handset": "NOS",
+                          "countryName": "Portugal"
+                        },
+                        {
+                          "networkName": "M1",
+                          "handset": "SGP-M1/ M1",
+                          "countryName": "Singapore"
+                        },
+                        {
+                          "networkName": "SK Telecom",
+                          "handset": "KOR SK Telecom / SKT",
+                          "countryName": "South Korea"
+                        },
+                        {
+                          "networkName": "Telefonica",
+                          "handset": "Movistar",
+                          "countryName": "Spain"
+                        },
+                        {
+                          "networkName": "Hutchison",
+                          "handset": "Hutch",
+                          "countryName": "Sri Lanka"
+                        },
+                        {
+                          "networkName": "Mobitel",
+                          "handset": "Mobitel LK",
+                          "countryName": "Sri Lanka"
+                        },
+                        {
+                          "networkName": "True Move",
+                          "handset": "TH 3G+",
+                          "countryName": "Thailand"
+                        },
+                        {
+                          "networkName": "Turkcell",
+                          "handset": "TR Turkcell/ TCELL",
+                          "countryName": "Turkey"
+                        },
+                        {
+                          "networkName": "DU",
+                          "handset": "DU",
+                          "countryName": "United Arab Emirates"
+                        },
+                        {
+                          "networkName": "Hutchison",
+                          "handset": "3 UK",
+                          "countryName": "United Kingdom"
+                        },
+                        {
+                          "networkName": "Telefonica",
+                          "handset": "O2 – UK",
+                          "countryName": "United Kingdom"
+                        },
+                        {
+                          "networkName": "AT&T",
+                          "handset": "AT&T",
+                          "countryName": "United States"
+                        }
+                      ],
+                      "pack": [
+                        {
+                          "packName": "UnLimitedIRPack",
+                          "packPrice": 575,
+                          "packValidity": 1,
+                          "outgoingCall": 100,
+                          "mobileData": 250,
+                          "smsCount": 100
+                        },
+                        {
+                          "packName": "UnLimitedIRPack",
+                          "packPrice": 2875,
+                          "packValidity": 7,
+                          "outgoingCall": 100,
+                          "mobileData": 250,
+                          "smsCount": 100
+                        },
+                        {
+                          "packName": "UnLimitedIRPack",
+                          "packPrice": 5751,
+                          "packValidity": 30,
+                          "outgoingCall": 1500,
+                          "mobileData": 5120,
+                          "smsCount": 1500
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
