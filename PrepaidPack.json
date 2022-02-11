@@ -357,7 +357,7 @@
               "packPrice": 501,
               "packValidity": 28,
               "talktimeCost": 424.58,
-              "smsCost": 5,
+              "smsCost": 5.0,
               "countryDetails": [
                 {
                   "countryName": "Afghanistan",
