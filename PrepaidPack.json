@@ -5,7 +5,7 @@
         {
           "dataPack": [
             {
-              "packName": "DataPack",
+              "packName": "Data Pack",
               "packPrice": 121,
               "packValidity": 0,
               "isCallUnlimited": false,
@@ -13,7 +13,7 @@
               "isActivePlan": true
             },
             {
-              "packName": "DataPack",
+              "packName": "Data Pack",
               "packPrice": 61,
               "packValidity": 0,
               "isCallUnlimited": false,
@@ -21,7 +21,7 @@
               "isActivePlan": true
             },
             {
-              "packName": "DataPack",
+              "packName": "Data Pack",
               "packPrice": 25,
               "packValidity": 0,
               "isCallUnlimited": false,
@@ -29,7 +29,7 @@
               "isActivePlan": true
             },
             {
-              "packName": "DataPack",
+              "packName": "Data Pack",
               "packPrice": 15,
               "packValidity": 0,
               "isCallUnlimited": false,
@@ -37,7 +37,7 @@
               "isActivePlan": true
             },
             {
-              "packName": "DataPack",
+              "packName": "Data Pack",
               "packPrice": 301,
               "packValidity": 30,
               "isCallUnlimited": false,
@@ -45,7 +45,7 @@
               "isActivePlan": false
             },
             {
-              "packName": "DataPack",
+              "packName": "Data Pack",
               "packPrice": 241,
               "packValidity": 30,
               "isCallUnlimited": false,
@@ -53,7 +53,7 @@
               "isActivePlan": false
             },
             {
-              "packName": "DataPack",
+              "packName": "Data Pack",
               "packPrice": 181,
               "packValidity": 30,
               "isCallUnlimited": false,
@@ -65,7 +65,7 @@
             {
               "unlimitedPack": [
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "1.5 GB/Day",
                   "packPrice": 2545,
                   "packValidity": 336,
                   "isCallUnlimited": true,
@@ -74,7 +74,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "1.5 GB/Day",
                   "packPrice": 479,
                   "packValidity": 56,
                   "isCallUnlimited": true,
@@ -83,7 +83,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "1.5 GB/Day",
                   "packPrice": 239,
                   "packValidity": 28,
                   "isCallUnlimited": true,
@@ -92,7 +92,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "1.5 GB/Day",
                   "packPrice": 199,
                   "packValidity": 23,
                   "isCallUnlimited": true,
@@ -101,7 +101,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "1.5 GB/Day",
                   "packPrice": 119,
                   "packValidity": 14,
                   "isCallUnlimited": true,
@@ -110,7 +110,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "2 GB/Day",
                   "packPrice": 2879,
                   "packValidity": 365,
                   "isCallUnlimited": true,
@@ -119,7 +119,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "2 GB/Day",
                   "packPrice": 533,
                   "packValidity": 56,
                   "isCallUnlimited": true,
@@ -128,7 +128,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "2 GB/Day",
                   "packPrice": 249,
                   "packValidity": 23,
                   "isCallUnlimited": true,
@@ -137,7 +137,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "1 GB/Day",
                   "packPrice": 209,
                   "packValidity": 28,
                   "isCallUnlimited": true,
@@ -146,7 +146,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "1 GB/Day",
                   "packPrice": 179,
                   "packValidity": 24,
                   "isCallUnlimited": true,
@@ -155,7 +155,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "1 GB/Day",
                   "packPrice": 149,
                   "packValidity": 20,
                   "isCallUnlimited": true,
@@ -164,7 +164,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "3 GB/Day",
                   "packPrice": 4199,
                   "packValidity": 365,
                   "isCallUnlimited": true,
@@ -173,7 +173,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "3 GB/Day",
                   "packPrice": 1199,
                   "packValidity": 84,
                   "isCallUnlimited": true,
@@ -182,7 +182,7 @@
                   "smsPerDay": 100
                 },
                 {
-                  "packName": "UnlimitedPack",
+                  "packName": "3 GB/Day",
                   "packPrice": 419,
                   "packValidity": 28,
                   "isCallUnlimited": true,
@@ -193,7 +193,7 @@
               ],
               "cashbackPack": [
                 {
-                  "packName": "CashbackPack",
+                  "packName": "Cashback Pack",
                   "packPrice": 2999,
                   "packValidity": 365,
                   "isCallUnlimited": true,
@@ -203,7 +203,7 @@
                   "discountPercentage": 20
                 },
                 {
-                  "packName": "CashbackPack",
+                  "packName": "Cashback Pack",
                   "packPrice": 719,
                   "packValidity": 84,
                   "isCallUnlimited": true,
@@ -213,7 +213,7 @@
                   "discountPercentage": 20
                 },
                 {
-                  "packName": "CashbackPack",
+                  "packName": "Cashback Pack",
                   "packPrice": 666,
                   "packValidity": 84,
                   "isCallUnlimited": true,
@@ -223,7 +223,7 @@
                   "discountPercentage": 15
                 },
                 {
-                  "packName": "CashbackPack",
+                  "packName": "Cashback Pack",
                   "packPrice": 299,
                   "packValidity": 28,
                   "isCallUnlimited": true,
@@ -235,7 +235,7 @@
               ],
               "subscriptionPack": [
                 {
-                  "packName": "SubscriptionPack",
+                  "packName": "Subscription Pack",
                   "packPrice": 3119,
                   "packValidity": 365,
                   "isCallUnlimited": true,
@@ -244,11 +244,11 @@
                   "smsPerDay": 100,
                   "subscriptions": [
                     "Amazon Prime - 30 days free trail",
-                    "Disney+Hotstar - 1 year subscription"
+                    "Disney+ Hotstar - 1 year"
                   ]
                 },
                 {
-                  "packName": "SubscriptionPack",
+                  "packName": "Subscription Pack",
                   "packPrice": 1066,
                   "packValidity": 84,
                   "isCallUnlimited": true,
@@ -257,11 +257,11 @@
                   "smsPerDay": 100,
                   "subscriptions": [
                     "Amazon Prime - 30 days free trail",
-                    "Disney+Hotstar - 1 year subscription"
+                    "Disney+ Hotstar - 1 year"
                   ]
                 },
                 {
-                  "packName": "SubscriptionPack",
+                  "packName": "Subscription Pack",
                   "packPrice": 799,
                   "packValidity": 56,
                   "isCallUnlimited": true,
@@ -269,11 +269,11 @@
                   "dataPerDay": 2,
                   "smsPerDay": 100,
                   "subscriptions": [
-                    "Disney+Hotstar - 1 year subscription"
+                    "Disney+ Hotstar - 1 year"
                   ]
                 },
                 {
-                  "packName": "SubscriptionPack",
+                  "packName": "Subscription Pack",
                   "packPrice": 659,
                   "packValidity": 56,
                   "isCallUnlimited": false,
@@ -281,11 +281,11 @@
                   "dataPerDay": 1.5,
                   "smsPerDay": 0,
                   "subscriptions": [
-                    "Disney+Hotstar - 1 year subscription"
+                    "Disney+ Hotstar - 1 year"
                   ]
                 },
                 {
-                  "packName": "SubscriptionPack",
+                  "packName": "Subscription Pack",
                   "packPrice": 601,
                   "packValidity": 28,
                   "isCallUnlimited": true,
@@ -294,11 +294,11 @@
                   "smsPerDay": 100,
                   "subscriptions": [
                     "Amazon Prime - 30 days free trail",
-                    "Disney+Hotstar - 1 year subscription"
+                    "Disney+ Hotstar - 1 year"
                   ]
                 },
                 {
-                  "packName": "SubscriptionPack",
+                  "packName": "Subscription Pack",
                   "packPrice": 499,
                   "packValidity": 28,
                   "isCallUnlimited": true,
@@ -307,7 +307,7 @@
                   "smsPerDay": 100,
                   "subscriptions": [
                     "Amazon Prime - 30 days free trail",
-                    "Disney+Hotstar - 1 year subscription"
+                    "Disney+ Hotstar - 1 year"
                   ]
                 }
               ]
@@ -315,7 +315,7 @@
           ],
           "limitedRegularPack": [
             {
-              "packName": "LimitedPack",
+              "packName": "Limited Pack",
               "packPrice": 1559,
               "packValidity": 336,
               "isCallUnlimited": true,
@@ -323,7 +323,7 @@
               "smsCount": 3600
             },
             {
-              "packName": "LimitedPack",
+              "packName": "Limited Pack",
               "packPrice": 395,
               "packValidity": 84,
               "isCallUnlimited": true,
@@ -331,7 +331,7 @@
               "smsCount": 1000
             },
             {
-              "packName": "LimitedPack",
+              "packName": "Limited Pack",
               "packPrice": 296,
               "packValidity": 30,
               "isCallUnlimited": true,
@@ -339,7 +339,7 @@
               "smsCount": 100
             },
             {
-              "packName": "LimitedPack",
+              "packName": "Limited Pack",
               "packPrice": 155,
               "packValidity": 28,
               "isCallUnlimited": true,
@@ -353,7 +353,7 @@
         {
           "isdPack": [
             {
-              "packName": "ISDPack",
+              "packName": "ISD Pack",
               "packPrice": 501,
               "packValidity": 28,
               "talktimeCost": 424.58,
@@ -11324,14 +11324,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11345,14 +11345,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1202,
                         "packValidity": 28,
                         "talktimeCost": 1018.64,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1201,
                         "packValidity": 28,
                         "talktimeCost": 1017.8,
@@ -11366,14 +11366,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11387,14 +11387,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11408,14 +11408,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11429,14 +11429,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11448,7 +11448,7 @@
                     {
                       "pack": [
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
                           "outgoingCall": 100,
@@ -11456,7 +11456,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
                           "outgoingCall": 100,
@@ -11464,7 +11464,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
                           "outgoingCall": 1500,
@@ -11480,14 +11480,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11501,14 +11501,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11522,14 +11522,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11543,14 +11543,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1202,
                         "packValidity": 28,
                         "talktimeCost": 1018.64,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1201,
                         "packValidity": 28,
                         "talktimeCost": 1017.8,
@@ -11564,14 +11564,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11585,14 +11585,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1202,
                         "packValidity": 28,
                         "talktimeCost": 1018.64,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1201,
                         "packValidity": 28,
                         "talktimeCost": 1017.8,
@@ -11606,14 +11606,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11625,7 +11625,7 @@
                     {
                       "pack": [
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
                           "outgoingCall": 100,
@@ -11633,7 +11633,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
                           "outgoingCall": 100,
@@ -11641,7 +11641,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
                           "outgoingCall": 1500,
@@ -11657,14 +11657,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11676,7 +11676,7 @@
                     {
                       "pack": [
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
                           "outgoingCall": 100,
@@ -11684,7 +11684,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
                           "outgoingCall": 100,
@@ -11692,7 +11692,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
                           "outgoingCall": 1500,
@@ -11708,14 +11708,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11729,14 +11729,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11748,7 +11748,7 @@
                     {
                       "pack": [
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
                           "outgoingCall": 100,
@@ -11756,7 +11756,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
                           "outgoingCall": 100,
@@ -11764,7 +11764,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
                           "outgoingCall": 1500,
@@ -11780,14 +11780,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11801,14 +11801,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11822,14 +11822,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11841,7 +11841,7 @@
                     {
                       "pack": [
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
                           "outgoingCall": 100,
@@ -11849,7 +11849,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
                           "outgoingCall": 100,
@@ -11857,7 +11857,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
                           "outgoingCall": 1500,
@@ -11873,14 +11873,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11892,7 +11892,7 @@
                     {
                       "pack": [
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
                           "outgoingCall": 100,
@@ -11900,7 +11900,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
                           "outgoingCall": 100,
@@ -11908,7 +11908,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
                           "outgoingCall": 1500,
@@ -11924,14 +11924,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -11945,14 +11945,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
@@ -11964,7 +11964,7 @@
                     {
                       "pack": [
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
                           "outgoingCall": 100,
@@ -11972,7 +11972,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
                           "outgoingCall": 100,
@@ -11980,7 +11980,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
                           "outgoingCall": 1500,
@@ -11996,14 +11996,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -12015,7 +12015,7 @@
                     {
                       "pack": [
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
                           "outgoingCall": 100,
@@ -12023,7 +12023,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
                           "outgoingCall": 100,
@@ -12031,7 +12031,7 @@
                           "smsCount": 100
                         },
                         {
-                          "packName": "UnLimitedIRPack",
+                          "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
                           "outgoingCall": 1500,
@@ -12047,14 +12047,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
                         "talktimeCost": 933.05,
@@ -12068,14 +12068,14 @@
                   "limitedIRPack": [
                     {
                       "withWifi": {
-                        "packName": "PackWithWifi",
+                        "packName": "Pack With Wifi",
                         "packPrice": 1202,
                         "packValidity": 28,
                         "talktimeCost": 1018.64,
                         "smsCost": 5
                       },
                       "withoutWifi": {
-                        "packName": "PackWithoutWifi",
+                        "packName": "Pack Without Wifi",
                         "packPrice": 1201,
                         "packValidity": 28,
                         "talktimeCost": 1017.8,
