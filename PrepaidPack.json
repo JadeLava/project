@@ -9,8 +9,10 @@
               "packName": "Data Pack",
               "packPrice": 121,
               "packValidity": 0,
+              "packBrief": "Rs 121-Active-12GB",
               "isCallUnlimited": false,
               "totalData": 12,
+              "dataUnit": "GB",
               "isActivePlan": true
             },
             {
@@ -18,8 +20,10 @@
               "packName": "Data Pack",
               "packPrice": 61,
               "packValidity": 0,
+              "packBrief": "Rs 61-Active-6GB",
               "isCallUnlimited": false,
               "totalData": 6,
+              "dataUnit": "GB",
               "isActivePlan": true
             },
             {
@@ -27,8 +31,10 @@
               "packName": "Data Pack",
               "packPrice": 25,
               "packValidity": 0,
+              "packBrief": "Rs 25-Active-2GB",
               "isCallUnlimited": false,
               "totalData": 2,
+              "dataUnit": "GB",
               "isActivePlan": true
             },
             {
@@ -36,8 +42,10 @@
               "packName": "Data Pack",
               "packPrice": 15,
               "packValidity": 0,
+              "packBrief": "Rs 15-Active-1GB",
               "isCallUnlimited": false,
               "totalData": 1,
+              "dataUnit": "GB",
               "isActivePlan": true
             },
             {
@@ -45,8 +53,10 @@
               "packName": "Data Pack",
               "packPrice": 301,
               "packValidity": 30,
+              "packBrief": "Rs 301-1m-50GB",
               "isCallUnlimited": false,
               "totalData": 50,
+              "dataUnit": "GB",
               "isActivePlan": false
             },
             {
@@ -54,8 +64,10 @@
               "packName": "Data Pack",
               "packPrice": 241,
               "packValidity": 30,
+              "packBrief": "Rs 241-1m-40GB",
               "isCallUnlimited": false,
               "totalData": 40,
+              "dataUnit": "GB",
               "isActivePlan": false
             },
             {
@@ -63,8 +75,10 @@
               "packName": "Data Pack",
               "packPrice": 181,
               "packValidity": 30,
+              "packBrief": "Rs 181-1m-30GB",
               "isCallUnlimited": false,
               "totalData": 30,
+              "dataUnit": "GB",
               "isActivePlan": false
             }
           ],
@@ -76,9 +90,11 @@
                   "packName": "1.5 GB/Day",
                   "packPrice": 2545,
                   "packValidity": 336,
+                  "packBrief": "Rs 2545-11m-1.5GB/D",
                   "isCallUnlimited": true,
                   "totalData": 504,
                   "dataPerDay": 1.5,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -86,9 +102,11 @@
                   "packName": "1.5 GB/Day",
                   "packPrice": 479,
                   "packValidity": 56,
+                  "packBrief": "Rs 479-2m-1.5GB/D",
                   "isCallUnlimited": true,
                   "totalData": 84,
                   "dataPerDay": 1.5,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -96,9 +114,11 @@
                   "packName": "1.5 GB/Day",
                   "packPrice": 239,
                   "packValidity": 28,
+                  "packBrief": "Rs 239-1m-1.5GB/D",
                   "isCallUnlimited": true,
                   "totalData": 42,
                   "dataPerDay": 1.5,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -106,9 +126,11 @@
                   "packName": "1.5 GB/Day",
                   "packPrice": 199,
                   "packValidity": 23,
+                  "packBrief": "Rs 199-23D-1.5GB/D",
                   "isCallUnlimited": true,
                   "totalData": 34.5,
                   "dataPerDay": 1.5,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -116,9 +138,11 @@
                   "packName": "1.5 GB/Day",
                   "packPrice": 119,
                   "packValidity": 14,
+                  "packBrief": "Rs 119-14D-1.5GB/D",
                   "isCallUnlimited": true,
                   "totalData": 21,
                   "dataPerDay": 1.5,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -126,9 +150,11 @@
                   "packName": "2 GB/Day",
                   "packPrice": 2879,
                   "packValidity": 365,
+                  "packBrief": "Rs 2879-1y-2GB/D",
                   "isCallUnlimited": true,
                   "totalData": 730,
                   "dataPerDay": 2,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -136,9 +162,11 @@
                   "packName": "2 GB/Day",
                   "packPrice": 533,
                   "packValidity": 56,
+                  "packBrief": "Rs 533-2m-2GB/D",
                   "isCallUnlimited": true,
                   "totalData": 112,
                   "dataPerDay": 2,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -146,9 +174,11 @@
                   "packName": "2 GB/Day",
                   "packPrice": 249,
                   "packValidity": 23,
+                  "packBrief": "Rs 249-23D-2GB/D",
                   "isCallUnlimited": true,
                   "totalData": 46,
                   "dataPerDay": 2,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -156,9 +186,11 @@
                   "packName": "1 GB/Day",
                   "packPrice": 209,
                   "packValidity": 28,
+                  "packBrief": "Rs 209-1m-1GB/D",
                   "isCallUnlimited": true,
                   "totalData": 28,
                   "dataPerDay": 1,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -166,9 +198,11 @@
                   "packName": "1 GB/Day",
                   "packPrice": 179,
                   "packValidity": 24,
+                  "packBrief": "Rs 179-24D-1GB/D",
                   "isCallUnlimited": true,
                   "totalData": 24,
                   "dataPerDay": 1,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -176,9 +210,11 @@
                   "packName": "1 GB/Day",
                   "packPrice": 149,
                   "packValidity": 20,
+                  "packBrief": "Rs 149-20D-1GB/D",
                   "isCallUnlimited": true,
                   "totalData": 20,
                   "dataPerDay": 1,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -186,9 +222,11 @@
                   "packName": "3 GB/Day",
                   "packPrice": 4199,
                   "packValidity": 365,
+                  "packBrief": "Rs 4199-1y-3GB/D",
                   "isCallUnlimited": true,
                   "totalData": 1095,
                   "dataPerDay": 3,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -196,9 +234,11 @@
                   "packName": "3 GB/Day",
                   "packPrice": 1199,
                   "packValidity": 84,
+                  "packBrief": "Rs 1199-3m-3GB/D",
                   "isCallUnlimited": true,
                   "totalData": 252,
                   "dataPerDay": 3,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 },
                 {
@@ -206,9 +246,11 @@
                   "packName": "3 GB/Day",
                   "packPrice": 419,
                   "packValidity": 28,
+                  "packBrief": "Rs 419-1m-3GB/D",
                   "isCallUnlimited": true,
                   "totalData": 84,
                   "dataPerDay": 3,
+                  "dataUnit": "GB",
                   "smsPerDay": 100
                 }
               ],
@@ -218,9 +260,11 @@
                   "packName": "Cashback Pack",
                   "packPrice": 2999,
                   "packValidity": 365,
+                  "packBrief": "Rs 2999-1y-2.5GB/D",
                   "isCallUnlimited": true,
                   "totalData": 912.5,
                   "dataPerDay": 2.5,
+                  "dataUnit": "GB",
                   "smsPerDay": 100,
                   "discountPercentage": 20
                 },
@@ -229,9 +273,11 @@
                   "packName": "Cashback Pack",
                   "packPrice": 719,
                   "packValidity": 84,
+                  "packBrief": "Rs 719-3m-2GB/D",
                   "isCallUnlimited": true,
                   "totalData": 168,
                   "dataPerDay": 2,
+                  "dataUnit": "GB",
                   "smsPerDay": 100,
                   "discountPercentage": 20
                 },
@@ -240,9 +286,11 @@
                   "packName": "Cashback Pack",
                   "packPrice": 666,
                   "packValidity": 84,
+                  "packBrief": "Rs 666-3m-1.5GB/D",
                   "isCallUnlimited": true,
                   "totalData": 126,
                   "dataPerDay": 1.5,
+                  "dataUnit": "GB",
                   "smsPerDay": 100,
                   "discountPercentage": 15
                 },
@@ -251,9 +299,11 @@
                   "packName": "Cashback Pack",
                   "packPrice": 299,
                   "packValidity": 28,
+                  "packBrief": "Rs 299-1m-2GB/D",
                   "isCallUnlimited": true,
                   "totalData": 56,
                   "dataPerDay": 2,
+                  "dataUnit": "GB",
                   "smsPerDay": 100,
                   "discountPercentage": 10
                 }
@@ -264,9 +314,11 @@
                   "packName": "Subscription Pack",
                   "packPrice": 3119,
                   "packValidity": 365,
+                  "packBrief": "Rs 3119-1y-2GB/D",
                   "isCallUnlimited": true,
                   "totalData": 740,
                   "dataPerDay": 2,
+                  "dataUnit": "GB",
                   "smsPerDay": 100,
                   "subscriptions": [
                     "Amazon Prime - 30 days free trail",
@@ -278,9 +330,11 @@
                   "packName": "Subscription Pack",
                   "packPrice": 1066,
                   "packValidity": 84,
+                  "packBrief": "Rs 1066-3m-2GB/D",
                   "isCallUnlimited": true,
                   "totalData": 173,
                   "dataPerDay": 2,
+                  "dataUnit": "GB",
                   "smsPerDay": 100,
                   "subscriptions": [
                     "Amazon Prime - 30 days free trail",
@@ -292,9 +346,11 @@
                   "packName": "Subscription Pack",
                   "packPrice": 799,
                   "packValidity": 56,
+                  "packBrief": "Rs 799-2m-2GB/D",
                   "isCallUnlimited": true,
                   "totalData": 112,
                   "dataPerDay": 2,
+                  "dataUnit": "GB",
                   "smsPerDay": 100,
                   "subscriptions": [
                     "Disney+ Hotstar - 1 year"
@@ -305,9 +361,11 @@
                   "packName": "Subscription Pack",
                   "packPrice": 659,
                   "packValidity": 56,
+                  "packBrief": "Rs 659-2m-1.5GB/D",
                   "isCallUnlimited": false,
                   "totalData": 84,
                   "dataPerDay": 1.5,
+                  "dataUnit": "GB",
                   "smsPerDay": 0,
                   "subscriptions": [
                     "Disney+ Hotstar - 1 year"
@@ -318,9 +376,11 @@
                   "packName": "Subscription Pack",
                   "packPrice": 601,
                   "packValidity": 28,
+                  "packBrief": "Rs 601-1m-3GB/D",
                   "isCallUnlimited": true,
                   "totalData": 90,
                   "dataPerDay": 3,
+                  "dataUnit": "GB",
                   "smsPerDay": 100,
                   "subscriptions": [
                     "Amazon Prime - 30 days free trail",
@@ -332,9 +392,11 @@
                   "packName": "Subscription Pack",
                   "packPrice": 499,
                   "packValidity": 28,
+                  "packBrief": "Rs 499-1m-2GB/D",
                   "isCallUnlimited": true,
                   "totalData": 56,
                   "dataPerDay": 2,
+                  "dataUnit": "GB",
                   "smsPerDay": 100,
                   "subscriptions": [
                     "Amazon Prime - 30 days free trail",
@@ -350,8 +412,10 @@
               "packName": "Limited Pack",
               "packPrice": 1559,
               "packValidity": 336,
+              "packBrief": "Rs 1559-11m-24GB",
               "isCallUnlimited": true,
               "totalData": 24,
+              "dataUnit": "GB",
               "smsCount": 3600
             },
             {
@@ -359,8 +423,10 @@
               "packName": "Limited Pack",
               "packPrice": 395,
               "packValidity": 84,
+              "packBrief": "Rs 395-3m-6GB",
               "isCallUnlimited": true,
               "totalData": 6,
+              "dataUnit": "GB",
               "smsCount": 1000
             },
             {
@@ -368,8 +434,10 @@
               "packName": "Limited Pack",
               "packPrice": 296,
               "packValidity": 30,
+              "packBrief": "Rs 296-1m-25GB",
               "isCallUnlimited": true,
               "totalData": 25,
+              "dataUnit": "GB",
               "smsCount": 100
             },
             {
@@ -377,8 +445,10 @@
               "packName": "Limited Pack",
               "packPrice": 155,
               "packValidity": 28,
+              "packBrief": "Rs 155-1m-2GB",
               "isCallUnlimited": true,
               "totalData": 2,
+              "dataUnit": "GB",
               "smsCount": 300
             }
           ]
@@ -392,6 +462,7 @@
               "packName": "ISD Pack",
               "packPrice": 501,
               "packValidity": 28,
+              "packBrief": "Rs 501-1m",
               "talktimeCost": 424.58,
               "smsCost": 5.0,
               "countryDetails": [
@@ -11353,7 +11424,6 @@
           ],
           "irPack": [
             {
-              "packInstructions": "International roaming notes:\n1. The pack benefits are applicable only on the preferred partner network in the visited country, if any other partner is chosen then standard rates will be applicable.\n2. Please restart your handset 15 mins after purchasing the pack.\n\nValue packs without WiFi calling:\n1. Value pack ₹1101 - Applicable for 100+ countries.\n2. Value pack ₹1201 - Applicable for 169 countries.\n3. Incoming calls on Wi-Fi calling can be received from anywhere in the world at ₹1.\n4. Outgoing calls over Wi-Fi calling are not allowed.\n\nValue packs with WiFi calling:\n1. Value pack ₹1102 - Applicable for 100+ countries.\n2. Value pack ₹1202 - Applicable for 169 countries.\n3. Wi-Fi calling facility is allowed only for call back to India.\n4. Incoming calls on Wi-Fi calling can be received from anywhere in the world at ₹1\n5. Outgoing SMS over Wi-Fi calling is not allowed. All incoming text messages will be delivered without any charge.\n6. Voice calling through Wi-Fi calling will be charged at ₹1 per minute to India.\n7. Video calls through Wi-Fi calling can be made on a Jio number only. You will be charged at ₹1 per minute plus the data deduction will happen from the data balance available in your base plan (The actual data usage of your video call may vary)\n8. For IR 1202 pack iPhone users, Wi-Fi calling facility is available in limited countries.\n\nUnlimited packs without WiFi calling:\n1. Applicable for 22 countries.\n2. Incoming calls from anywhere in the world by enabling Wi-Fi calling feature will be free.\n3. Outgoing calls over Wi-Fi calling are not allowed.",
               "packDetails": [
                 {
                   "countryName": "Afghanistan",
@@ -11364,6 +11434,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11372,6 +11443,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11387,6 +11459,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1202,
                         "packValidity": 28,
+                        "packBrief": "Rs 1202-1m",
                         "talktimeCost": 1018.64,
                         "smsCost": 5
                       },
@@ -11395,6 +11468,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1201,
                         "packValidity": 28,
+                        "packBrief": "Rs 1201-1m",
                         "talktimeCost": 1017.8,
                         "smsCost": 5
                       }
@@ -11410,6 +11484,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11418,6 +11493,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11433,6 +11509,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11441,6 +11518,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11456,6 +11534,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11464,6 +11543,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11479,6 +11559,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11487,6 +11568,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11500,8 +11582,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
+                          "packBrief": "Rs 575-1D",
                           "outgoingCall": 100,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11509,8 +11593,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
-                          "outgoingCall": 100,
+                          "packBrief": "Rs 2875-7D",
+                          "outgoingCall": 500,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11518,8 +11604,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
+                          "packBrief": "Rs 5751-1m",
                           "outgoingCall": 1500,
                           "mobileData": 5120,
+                          "dataUnit": "MB",
                           "smsCount": 1500
                         }
                       ]
@@ -11535,6 +11623,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11543,6 +11632,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11558,6 +11648,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11566,6 +11657,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11581,6 +11673,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11589,6 +11682,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11604,6 +11698,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1202,
                         "packValidity": 28,
+                        "packBrief": "Rs 1202-1m",
                         "talktimeCost": 1018.64,
                         "smsCost": 5
                       },
@@ -11612,6 +11707,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1201,
                         "packValidity": 28,
+                        "packBrief": "Rs 1201-1m",
                         "talktimeCost": 1017.8,
                         "smsCost": 5
                       }
@@ -11627,6 +11723,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11635,6 +11732,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11650,6 +11748,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1202,
                         "packValidity": 28,
+                        "packBrief": "Rs 1202-1m",
                         "talktimeCost": 1018.64,
                         "smsCost": 5
                       },
@@ -11658,6 +11757,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1201,
                         "packValidity": 28,
+                        "packBrief": "Rs 1201-1m",
                         "talktimeCost": 1017.8,
                         "smsCost": 5
                       }
@@ -11673,6 +11773,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11681,6 +11782,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11694,8 +11796,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
+                          "packBrief": "Rs 575-1D",
                           "outgoingCall": 100,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11703,8 +11807,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
-                          "outgoingCall": 100,
+                          "packBrief": "Rs 2875-7D",
+                          "outgoingCall": 500,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11712,8 +11818,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
+                          "packBrief": "Rs 5751-1m",
                           "outgoingCall": 1500,
                           "mobileData": 5120,
+                          "dataUnit": "MB",
                           "smsCount": 1500
                         }
                       ]
@@ -11729,6 +11837,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11737,6 +11846,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11750,8 +11860,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
+                          "packBrief": "Rs 575-1D",
                           "outgoingCall": 100,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11759,8 +11871,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
-                          "outgoingCall": 100,
+                          "packBrief": "Rs 2875-7D",
+                          "outgoingCall": 500,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11768,8 +11882,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
+                          "packBrief": "Rs 5751-1m",
                           "outgoingCall": 1500,
                           "mobileData": 5120,
+                          "dataUnit": "MB",
                           "smsCount": 1500
                         }
                       ]
@@ -11785,6 +11901,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11793,6 +11910,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11808,6 +11926,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11816,6 +11935,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11829,8 +11949,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
+                          "packBrief": "Rs 575-1D",
                           "outgoingCall": 100,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11838,8 +11960,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
-                          "outgoingCall": 100,
+                          "packBrief": "Rs 2875-7D",
+                          "outgoingCall": 500,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11847,8 +11971,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
+                          "packBrief": "Rs 5751-1m",
                           "outgoingCall": 1500,
                           "mobileData": 5120,
+                          "dataUnit": "MB",
                           "smsCount": 1500
                         }
                       ]
@@ -11864,6 +11990,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11872,6 +11999,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11887,6 +12015,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11895,6 +12024,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11910,6 +12040,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11918,6 +12049,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11931,8 +12063,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
+                          "packBrief": "Rs 575-1D",
                           "outgoingCall": 100,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11940,8 +12074,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
-                          "outgoingCall": 100,
+                          "packBrief": "Rs 2875-7D",
+                          "outgoingCall": 500,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11949,8 +12085,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
+                          "packBrief": "Rs 5751-1m",
                           "outgoingCall": 1500,
                           "mobileData": 5120,
+                          "dataUnit": "MB",
                           "smsCount": 1500
                         }
                       ]
@@ -11966,6 +12104,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -11974,6 +12113,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -11987,8 +12127,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
+                          "packBrief": "Rs 575-1D",
                           "outgoingCall": 100,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -11996,8 +12138,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
-                          "outgoingCall": 100,
+                          "packBrief": "Rs 2875-7D",
+                          "outgoingCall": 500,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -12005,8 +12149,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
+                          "packBrief": "Rs 5751-1m",
                           "outgoingCall": 1500,
                           "mobileData": 5120,
+                          "dataUnit": "MB",
                           "smsCount": 1500
                         }
                       ]
@@ -12022,6 +12168,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -12030,6 +12177,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -12045,6 +12193,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -12053,6 +12202,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       }
@@ -12066,8 +12216,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
+                          "packBrief": "Rs 575-1D",
                           "outgoingCall": 100,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -12075,8 +12227,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
-                          "outgoingCall": 100,
+                          "packBrief": "Rs 2875-7D",
+                          "outgoingCall": 500,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -12084,8 +12238,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
+                          "packBrief": "Rs 5751-1m",
                           "outgoingCall": 1500,
                           "mobileData": 5120,
+                          "dataUnit": "MB",
                           "smsCount": 1500
                         }
                       ]
@@ -12101,6 +12257,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -12109,6 +12266,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -12122,8 +12280,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 575,
                           "packValidity": 1,
+                          "packBrief": "Rs 575-1D",
                           "outgoingCall": 100,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -12131,8 +12291,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 2875,
                           "packValidity": 7,
-                          "outgoingCall": 100,
+                          "packBrief": "Rs 2875-7D",
+                          "outgoingCall": 500,
                           "mobileData": 250,
+                          "dataUnit": "MB",
                           "smsCount": 100
                         },
                         {
@@ -12140,8 +12302,10 @@
                           "packName": "UnLimited IR Pack",
                           "packPrice": 5751,
                           "packValidity": 30,
+                          "packBrief": "Rs 5751-1m",
                           "outgoingCall": 1500,
                           "mobileData": 5120,
+                          "dataUnit": "MB",
                           "smsCount": 1500
                         }
                       ]
@@ -12157,6 +12321,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1102,
                         "packValidity": 28,
+                        "packBrief": "Rs 1102-1m",
                         "talktimeCost": 933.9,
                         "smsCost": 5
                       },
@@ -12165,6 +12330,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1101,
                         "packValidity": 28,
+                        "packBrief": "Rs 1101-1m",
                         "talktimeCost": 933.05,
                         "smsCost": 5
                       }
@@ -12180,6 +12346,7 @@
                         "packName": "Pack With Wifi",
                         "packPrice": 1202,
                         "packValidity": 28,
+                        "packBrief": "Rs 1202-1m",
                         "talktimeCost": 1018.64,
                         "smsCost": 5
                       },
@@ -12188,6 +12355,7 @@
                         "packName": "Pack Without Wifi",
                         "packPrice": 1201,
                         "packValidity": 28,
+                        "packBrief": "Rs 1201-1m",
                         "talktimeCost": 1017.8,
                         "smsCost": 5
                       }
